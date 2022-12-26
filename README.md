@@ -1,2 +1,2 @@
-                                                             #Tokyo-City
-<h1 align="center">Word документ по предметной области "Tokyo City" </h1> 
+                                                             #City
+<h1 align="center">Word документ по предметной области "City" </h1> 
